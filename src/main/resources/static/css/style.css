@@ -29,3 +29,9 @@ span{
     color:red;
   }
   
+.card{
+  background-color: black;
+}
+.credit{
+  margin-left: 20px;
+}
